@@ -1,0 +1,38 @@
+{
+    "ref":"2013-10-01",
+    "data":[
+        {
+            "id":"1",
+            "request":"Request real 1",
+            "team":"team1",
+            "name":"name1",        
+            "count":"1",
+            "availability":"80%",
+            
+            "d20131001":"PL",
+            "d20131002":"T"
+        },
+        {
+            "id":"2",
+            "request":"request2",
+            "team":"team2",
+            "name":"name2",
+            "count":"2",
+            "availability":"90%",
+            
+            "d20131003":"T",
+            "d20131004":"PL",
+            "d20131005":"SL"
+        },
+        {
+            "id":"3",
+            "request":"request3",
+            "team":"team3",
+            "name":"name3",
+            "count":"3",
+            "availability":"100%",
+            "d20131028":"PL",
+            "dias": "<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>"
+        }
+    ]
+}
